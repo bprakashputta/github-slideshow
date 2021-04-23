@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Your next door Adventure guy, crazy, and traveller
 Use the left arrow to go back!
